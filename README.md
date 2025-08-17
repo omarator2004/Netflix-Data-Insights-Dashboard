@@ -1,12 +1,12 @@
 # 🎬 Netflix Data Analysis  
 
-This is my first data analysis project where I explore the **Netflix dataset** using Python and Jupyter Notebook.  
-The goal of this project is to practice data cleaning, visualization, and basic insights extraction.  
+This is my first data analysis project where I explore the **Netflix dataset** using **Google Colab**.  
+The goal of this project is to practice data cleaning, visualization, and extracting insights from real-world data.  
 
 ---
 
 ## 📂 Project Contents  
-- **Netflix_Data_Analysis.ipynb** → Jupyter Notebook with full analysis.  
+- **Netflix_Data_Analysis.ipynb** → Colab Notebook with full analysis.  
 - **Visualizations** → Charts that show trends in the dataset.  
 
 ---
@@ -30,7 +30,7 @@ The goal of this project is to practice data cleaning, visualization, and basic 
 - Python  
 - Pandas  
 - Matplotlib / Seaborn  
-- Jupyter Notebook  
+- Google Colab  
 
 ---
 
@@ -44,12 +44,10 @@ The goal of this project is to practice data cleaning, visualization, and basic 
 ---
 
 ## 🚀 How to Use  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   ```  
-2. Open the Jupyter Notebook  
-3. Run the cells to reproduce the analysis  
+
+You can open and run the notebook directly in Google Colab:  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ahen5E2NbDOHDus0nYGZvz6IhQZhP7Xv?usp=sharing)  
 
 ---
 
