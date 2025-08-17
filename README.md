@@ -34,15 +34,6 @@ The goal of this project is to practice data cleaning, visualization, and extrac
 
 ---
 
-## 📊 Example Visualization  
-*(you can upload one of your best plots here as an image)*  
-
-```markdown
-![Top 10 Genres](images/top_genres.png)
-```
-
----
-
 ## 🚀 How to Use  
 
 You can open and run the notebook directly in Google Colab:  
