@@ -1,60 +1,57 @@
-🎬 Netflix Data Analysis
+# 🎬 Netflix Data Analysis  
 
-This is my first data analysis project where I explore the Netflix dataset using Python and Jupyter Notebook.
-The goal of this project is to practice data cleaning, visualization, and basic insights extraction.
+This is my first data analysis project where I explore the **Netflix dataset** using Python and Jupyter Notebook.  
+The goal of this project is to practice data cleaning, visualization, and basic insights extraction.  
 
-📂 Project Contents
+---
 
-Netflix_Data_Analysis.ipynb → Jupyter Notebook with full analysis.
+## 📂 Project Contents  
+- **Netflix_Data_Analysis.ipynb** → Jupyter Notebook with full analysis.  
+- **Visualizations** → Charts that show trends in the dataset.  
 
-Visualizations → Charts that show trends in the dataset.
+---
 
-🔑 Key Steps in the Project
+## 🔑 Key Steps in the Project  
+1. **Data Cleaning**  
+   - Removed missing/invalid values  
+   - Converted date columns into proper datetime format  
 
-Data Cleaning
+2. **Exploratory Data Analysis (EDA)**  
+   - Distribution of movies vs TV shows  
+   - Top genres on Netflix  
+   - Release year trends  
 
-Removed missing/invalid values
+3. **Data Visualization**  
+   - Bar charts, count plots, and trends over time  
 
-Converted date columns into proper datetime format
+---
 
-Exploratory Data Analysis (EDA)
+## 🛠️ Tools & Libraries Used  
+- Python  
+- Pandas  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
 
-Distribution of movies vs TV shows
+---
 
-Top genres on Netflix
+## 📊 Example Visualization  
+*(you can upload one of your best plots here as an image)*  
 
-Release year trends
-
-Data Visualization
-
-Bar charts, count plots, and trends over time
-
-🛠️ Tools & Libraries Used
-
-Python
-
-Pandas
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
-
-📊 Example Visualization
-
-(you can upload one of your best plots here as an image)
-
+```markdown
 ![Top 10 Genres](images/top_genres.png)
+```
 
-🚀 How to Use
+---
 
-Clone the repo
+## 🚀 How to Use  
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/netflix-data-analysis.git
+   ```  
+2. Open the Jupyter Notebook  
+3. Run the cells to reproduce the analysis  
 
-git clone https://github.com/your-username/netflix-data-analysis.git
+---
 
-Open the Jupyter Notebook
-
-Run the cells to reproduce the analysis
-
-🙌 Acknowledgment
-
-Dataset source: https://www.kaggle.com/datasets/shivamb/netflix-shows (Kaggle Netflix Dataset)
+## 🙌 Acknowledgment  
+Dataset source: [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows)  
